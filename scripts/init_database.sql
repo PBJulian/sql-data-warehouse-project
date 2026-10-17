@@ -2,7 +2,7 @@
 ===============================================================================
 Script     : init_database.sql
 Proyecto   : Data Warehouse en SQL Server con Arquitectura Medallion
-Autor      : José Julián Pérez Bustamante
+Autor      : José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 Asignatura : Ingeniería y Minería de Datos
 ===============================================================================
 Propósito:

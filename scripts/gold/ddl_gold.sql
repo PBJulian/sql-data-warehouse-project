@@ -2,7 +2,7 @@
 ===============================================================================
 Script     : ddl_gold.sql
 Capa       : Gold (modelo analítico - esquema estrella)
-Autor      : José Julián Pérez Bustamante
+Autor      : José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 Asignatura : Ingeniería y Minería de Datos
 ===============================================================================
 Propósito:

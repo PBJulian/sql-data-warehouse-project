@@ -2,7 +2,7 @@
 ===============================================================================
 Procedimiento : bronze.load_bronze
 Capa          : Bronze (Fuente -> Bronze)
-Autor         : José Julián Pérez Bustamante
+Autor         : José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 Asignatura    : Ingeniería y Minería de Datos
 ===============================================================================
 Propósito:

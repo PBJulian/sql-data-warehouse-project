@@ -2,7 +2,7 @@
 ===============================================================================
 Script     : quality_checks_gold.sql
 Capa       : Gold (controles de calidad)
-Autor      : José Julián Pérez Bustamante
+Autor      : José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 Asignatura : Ingeniería y Minería de Datos
 ===============================================================================
 Propósito:

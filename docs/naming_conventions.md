@@ -1,6 +1,6 @@
 # Convenciones de Nombres
 
-**Autores:** José Julián Pérez Bustamante
+**Autores:** José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 **Asignatura:** Ingeniería y Minería de Datos
 
 Este documento establece las convenciones de nomenclatura aplicadas a los

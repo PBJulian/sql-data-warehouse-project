@@ -1,6 +1,6 @@
 # Arquitectura de Datos
 
-**Autores:** José Julián Pérez Bustamante
+**Autores:** José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 **Asignatura:** Ingeniería y Minería de Datos
 
 Este documento describe la arquitectura del almacén de datos, el flujo de los

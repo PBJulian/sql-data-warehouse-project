@@ -1,6 +1,6 @@
 # Catálogo de Datos — Capa Gold
 
-**Autores:** José Julián Pérez Bustamante
+**Autores:** José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 **Asignatura:** Ingeniería y Minería de Datos
 
 ## Descripción general

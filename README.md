@@ -1,6 +1,6 @@
 # Data Warehouse en SQL Server con Arquitectura Medallion
 
-**Autores:** José Julián Pérez Bustamante
+**Autores:** José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios
 **Asignatura:** Ingeniería y Minería de Datos
 
 Proyecto de ingeniería de datos que construye, desde cero, un almacén de datos
@@ -217,6 +217,6 @@ ORDER BY total_sales DESC;
 - Proyecto original: **Baraa Khatib Salkini** —
   [DataWithBaraa/sql-data-warehouse-project](https://github.com/DataWithBaraa/sql-data-warehouse-project).
 - Adaptación, documentación y comentarios en español:
-  **José Julián Pérez Bustamante**.
+  **José Julián Pérez Bustamante, Denzel Gael Cruz Prieto, Leonardo de Jesús Esquivel Palacios**.
 
 Distribuido bajo la licencia MIT. Consulte el archivo [LICENSE](LICENSE).
